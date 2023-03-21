@@ -78,7 +78,7 @@ THEN
 : that <i>&lt;Measurement&gt;</i> has a time stamp or time period indicating when it was recorded. 
 
 
-#### <a name='_288665596'>Background: </a>
+#### <a name='_431687835'>Background: </a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -179,7 +179,7 @@ THEN
 : that <i>&lt;Measurement&gt;</i> has a time stamp or time period indicating when it was recorded. 
 
 
-#### <a name='_288665596'>Background: </a>
+#### <a name='_431687835'>Background: </a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -242,7 +242,7 @@ BUT
 : The <i>&lt;Device&gt;</i> does not need to be reconfigured (e.g., paired with) <i>&lt;MobileDevice1&gt;</i> or <i>&lt;MobileDevice2&gt;</i> before taking the measurement.
 
 
-#### <a name='_13648335'>Background: Multiple Device Support</a>
+#### <a name='_1164175787'>Background: Multiple Device Support</a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -344,7 +344,7 @@ THEN
 : that <i>&lt;Measurement&gt;</i> has a time stamp or time period indicating when it was recorded. 
 
 
-#### <a name='_288665596'>Background: </a>
+#### <a name='_431687835'>Background: </a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -407,7 +407,7 @@ BUT
 : The <i>&lt;Device&gt;</i> does not need to be reconfigured (e.g., paired with) <i>&lt;MobileDevice1&gt;</i> or <i>&lt;MobileDevice2&gt;</i> before taking the measurement.
 
 
-#### <a name='_13648335'>Background: Multiple Device Support</a>
+#### <a name='_1164175787'>Background: Multiple Device Support</a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -533,7 +533,7 @@ THEN
 : that <i>&lt;Measurement&gt;</i> has a time stamp or time period indicating when it was recorded. 
 
 
-#### <a name='_288665596'>Background: </a>
+#### <a name='_431687835'>Background: </a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -596,7 +596,7 @@ BUT
 : The <i>&lt;Device&gt;</i> does not need to be reconfigured (e.g., paired with) <i>&lt;MobileDevice1&gt;</i> or <i>&lt;MobileDevice2&gt;</i> before taking the measurement.
 
 
-#### <a name='_13648335'>Background: Multiple Device Support</a>
+#### <a name='_1164175787'>Background: Multiple Device Support</a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -751,7 +751,7 @@ THEN
 : that <i>&lt;Measurement&gt;</i> has a time stamp or time period indicating when it was recorded. 
 
 
-#### <a name='_288665596'>Background: </a>
+#### <a name='_431687835'>Background: </a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios
@@ -814,7 +814,7 @@ BUT
 : The <i>&lt;Device&gt;</i> does not need to be reconfigured (e.g., paired with) <i>&lt;MobileDevice1&gt;</i> or <i>&lt;MobileDevice2&gt;</i> before taking the measurement.
 
 
-#### <a name='_13648335'>Background: Multiple Device Support</a>
+#### <a name='_1164175787'>Background: Multiple Device Support</a>
 
 The following scenarios describe further support requirements for similar
 and different devices.  The requirements below apply to both of the scenarios

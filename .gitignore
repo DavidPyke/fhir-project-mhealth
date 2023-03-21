@@ -1,11 +1,9 @@
 /input/images/Thumbs.db
-/input-cache/org.hl7.fhir.publisher.jar
-/input-cache/**
+/input-cache/
 temp
 template
 output
 /build/
 /save/
 /target/
-
-/input/
+/fsh-generated/

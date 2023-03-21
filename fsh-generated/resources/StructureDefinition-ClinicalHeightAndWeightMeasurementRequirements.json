@@ -1,16 +1,6 @@
 {
   "resourceType": "StructureDefinition",
   "id": "ClinicalHeightAndWeightMeasurementRequirements",
-  "extension": [
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-category",
-      "valueString": "Clinical.Diagnostics"
-    },
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-security-category",
-      "valueCode": "patient"
-    }
-  ],
   "url": "http://hl7.org/fhir/uv/mhealth-framework/StructureDefinition/ClinicalHeightAndWeightMeasurementRequirements",
   "version": "0.1.0",
   "name": "ClinicalHeightAndWeightMeasurementRequirements",

@@ -1,16 +1,6 @@
 {
   "resourceType": "StructureDefinition",
   "id": "Spo2MeasurementRecommendations",
-  "extension": [
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-category",
-      "valueString": "Clinical.Diagnostics"
-    },
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-security-category",
-      "valueCode": "patient"
-    }
-  ],
   "url": "http://hl7.org/fhir/uv/mhealth-framework/StructureDefinition/Spo2MeasurementRecommendations",
   "version": "0.1.0",
   "name": "Spo2MeasurementRecommendations",

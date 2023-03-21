@@ -1,16 +1,6 @@
 {
   "resourceType": "StructureDefinition",
   "id": "MeasurementDeviceIdentifiedRequirements",
-  "extension": [
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-category",
-      "valueString": "Clinical.Diagnostics"
-    },
-    {
-      "url": "http://hl7.org/fhir/StructureDefinition/structuredefinition-security-category",
-      "valueCode": "patient"
-    }
-  ],
   "url": "http://hl7.org/fhir/uv/mhealth-framework/StructureDefinition/MeasurementDeviceIdentifiedRequirements",
   "version": "0.1.0",
   "name": "MeasurementDeviceIdentifiedRequirements",
